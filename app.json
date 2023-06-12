@@ -21,10 +21,18 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mamonator.wordmemo"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d3c3efa4-d4cf-4707-82fd-df4a78a88d31"
+      }
+     , "scheme": "wordmemo"
+
     }
   }
 }
